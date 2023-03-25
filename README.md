@@ -1,4 +1,4 @@
 # FastAPI + sqlalchemy tutorial
 
-Files from the [SQL (Relational) Databases with FastAPI tutorial](https://fastapi.tiangolo.com/tutorial/sql-databases/#main-fastapi-app)
+Files from the tutorial [SQL (Relational) Databases with FastAPI](https://fastapi.tiangolo.com/tutorial/sql-databases/)
 
